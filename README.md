@@ -91,27 +91,18 @@ Computer Science Undergraduate | AI & Full Stack Developer
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzairmustafa291&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairmustafa291&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=uzairmustafa291&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairmustafa291&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
+## 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=uzairmustafa291&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairmustafa291&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 

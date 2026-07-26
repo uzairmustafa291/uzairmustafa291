@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3F51B5,100:00BCD4&height=220&section=header&text=UZAIR%20MUSTAFA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&descColor=B3E5FC&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3F51B5,100:00BCD4&height=220&section=header&text=UZAIR%20MUSTAFA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=B3E5FC&animation=fadeIn"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00BCD4&background=0D111700&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Backend+Engineering+%7C+REST+APIs;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=18\&duration=2500\&pause=800\&color=00BCD4\&background=0D111700\&center=true\&vCenter=true\&width=700\&lines=AI+Engineer;Retrieval-Augmented+Generation+\(RAG\);Full+Stack+Developer+\(MERN\);Backend+Engineering+%7C+REST+APIs;Building+AI+Applications+with+LLMs)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=uzairmustafa291&style=for-the-badge&color=00BCD4&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=uzairmustafa291\&style=for-the-badge\&color=00BCD4\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -19,8 +19,7 @@
 ```text
 Name      : Uzair Mustafa
 Degree    : BS Computer Science — FAST-NUCES [2023–2027]
-CGPA      : 3.28 / 4.00
-Focus     : Artificial Intelligence · Machine Learning · Full Stack Development
+Focus     : AI Engineering · Machine Learning · Retrieval-Augmented Generation · Full Stack Development
 Location  : Pakistan
 Status    : [ OPEN ] → Software Engineering & AI Internship
 ```
@@ -29,9 +28,9 @@ Status    : [ OPEN ] → Software Engineering & AI Internship
 
 # 🚀 About Me
 
-Computer Science undergraduate passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
+Computer Science undergraduate passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, and **Full Stack Development**.
 
-I enjoy solving real-world problems through scalable backend systems, REST APIs, and AI-powered applications while continuously learning modern technologies.
+I enjoy solving real-world problems by developing scalable backend systems, REST APIs, and AI-powered applications while continuously exploring modern technologies and software engineering practices.
 
 ---
 
@@ -41,14 +40,14 @@ I enjoy solving real-world problems through scalable backend systems, REST APIs,
 
 <div align="center">
 
-| 🤖 Artificial Intelligence | 🌐 Backend Development | 💻 Computer Science |
-|:-------------------------:|:----------------------:|:------------------:|
-| Machine Learning | REST APIs | Data Structures |
-| NLP | Node.js | Algorithms |
-| TF-IDF | Express.js | OOP |
-| Prompt Engineering | MongoDB | DBMS |
-| Google Gemini API | PostgreSQL | Operating Systems |
-| Scikit-Learn | Authentication | Computer Networks |
+|      🤖 Artificial Intelligence      | 🌐 Backend Development |     💻 Computer Science     |
+| :----------------------------------: | :--------------------: | :-------------------------: |
+|           Machine Learning           |        REST APIs       |       Data Structures       |
+| Retrieval-Augmented Generation (RAG) |         Node.js        |          Algorithms         |
+|            LLM Integration           |       Express.js       | Object-Oriented Programming |
+|          Prompt Engineering          |         FastAPI        |             DBMS            |
+|         Sentence Transformers        |     Authentication     |      Operating Systems      |
+|               ChromaDB               |       PostgreSQL       |      Computer Networks      |
 
 </div>
 
@@ -60,7 +59,7 @@ I enjoy solving real-world problems through scalable backend systems, REST APIs,
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=python,c,cpp,js,sql)
+![](https://skillicons.dev/icons?i=python,c,cpp,js,ts,sql)
 
 </div>
 
@@ -70,7 +69,7 @@ I enjoy solving real-world problems through scalable backend systems, REST APIs,
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,postgres)
+![](https://skillicons.dev/icons?i=html,css,react,vite,ts,nodejs,express,flask,fastapi,mongodb,postgres)
 
 </div>
 
@@ -80,19 +79,25 @@ I enjoy solving real-world problems through scalable backend systems, REST APIs,
 
 <div align="center">
 
-![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Retrieval--Augmented%20Generation-RAG-1565C0?style=for-the-badge)
 
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Sentence%20Transformers-009688?style=for-the-badge)
 
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/ChromaDB-6A1B9A?style=for-the-badge)
 
-![](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
+![](https://img.shields.io/badge/LLMs-283593?style=for-the-badge)
 
-![](https://img.shields.io/badge/TF--IDF-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Groq%20API-E53935?style=for-the-badge)
+
+![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ![](https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge)
 
-![](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
 
 </div>
 
@@ -102,13 +107,13 @@ I enjoy solving real-world problems through scalable backend systems, REST APIs,
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=git,github,vscode)
+![](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ![](https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge)
 
@@ -123,20 +128,35 @@ I enjoy solving real-world problems through scalable backend systems, REST APIs,
 <div align="center">
 
 ```text
-Python • JavaScript • C • C++ • SQL
+Programming Languages
+Python • JavaScript • TypeScript • C • C++ • SQL
 
-React.js • Node.js • Express.js
-FastAPI • Flask
+Frontend
+HTML • CSS • React • Vite
 
-MongoDB • PostgreSQL
+Backend
+Node.js • Express.js • Flask • FastAPI
 
-Scikit-Learn • Pandas • NumPy
+Databases
+MongoDB • PostgreSQL • ChromaDB
+
+Artificial Intelligence
+Machine Learning
+Scikit-Learn
+NumPy
+Pandas
+Sentence Transformers
+Retrieval-Augmented Generation (RAG)
+LLMs
+Groq API
 Google Gemini API
+Prompt Engineering
 
+Other Technologies
 REST APIs
 Authentication
-Prompt Engineering
 Git & GitHub
+Web Scraping
 ```
 
 </div>
@@ -183,7 +203,7 @@ Git & GitHub
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│ 👨‍🏫 Teaching Assistant — Object Oriented Programming          │
+│ 👨‍🏫 Teaching Assistant — Object-Oriented Programming          │
 │ FAST-NUCES                                   [2025–2026]     │
 │ Conducted programming labs and evaluated coding assignments. │
 │                                                              │
@@ -200,19 +220,17 @@ Git & GitHub
 
 <div align="center">
 
-✔ Large Language Models (LLMs)
+✔ Advanced Retrieval-Augmented Generation (RAG)
 
-✔ Backend Engineering
+✔ LangChain
 
-✔ Authentication & Authorization
+✔ LangGraph
 
-✔ REST APIs
-
-✔ MongoDB
-
-✔ PostgreSQL
+✔ AI Agents
 
 ✔ System Design
+
+✔ Scalable Backend Architecture
 
 </div>
 
@@ -224,7 +242,7 @@ Git & GitHub
 
 <div align="center">
 
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/uzairmustafa291)
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/uzairmustafa291)
 
 </div>
 
